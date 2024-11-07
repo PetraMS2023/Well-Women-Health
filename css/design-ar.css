@@ -1,0 +1,28 @@
+html,
+body{
+    direction: rtl;
+}
+
+.contact .contanier .search button {
+    position: absolute;
+    right: auto;
+    left: 0;
+    background-color: var(--sec-color);
+    padding: 6px 40px;
+    font-family: "Caveat";
+    font-weight: bold;
+    text-transform: capitalize;
+    height: 100%;
+    border: 0;
+    color: white;
+    cursor: pointer;
+}
+
+.footer .links .title{
+    padding-bottom: 6px;
+}
+
+.header .contanier .bottom .nav ul{
+    padding-right: 20px;
+    padding-top: 20px;
+}
